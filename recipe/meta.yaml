@@ -1,5 +1,5 @@
 {% set name = "skweak" %}
-{% set version = "0.2.18" %}
+{% set version = "0.3.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/skweak-{{ version }}.tar.gz
-  sha256: 3395bcdee8ced6038b45e69ecc6a86500a83b5ce5ffbce572ad25937f5c5cb1e
+  sha256: cfba92d2218db9e44bcf5fb4fa57fe2eb52a3ff621097689684d8eb40b7da996
 
 build:
   number: 0
