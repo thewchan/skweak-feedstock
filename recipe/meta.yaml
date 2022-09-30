@@ -20,7 +20,7 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - hmmlearn >=0.2
+    - hmmlearn >=0.2.5,<=0.2.7
     - numpy >=1.18
     - pandas >=0.23
     - python >=3.6
